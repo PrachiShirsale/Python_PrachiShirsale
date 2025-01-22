@@ -1,0 +1,8 @@
+2025-01-22 16:03:55,842 - INFO - Patient name saved: priti
+2025-01-22 16:04:00,516 - INFO - Gender saved: Female
+2025-01-22 16:04:03,447 - ERROR - DOB cannot be in the future
+2025-01-22 16:04:06,730 - ERROR - Invalid phone number
+2025-01-22 16:04:18,121 - INFO - Admission date saved: 2025-01-22 00:00:00
+2025-01-22 16:04:18,121 - INFO - Admission date saved: 2025-01-22 00:00:00
+2025-01-22 16:04:29,252 - INFO - Discharge date saved: 2025-01-22 00:00:00
+2025-01-22 16:04:29,252 - INFO - Discharge date saved: 2025-01-22 00:00:00
